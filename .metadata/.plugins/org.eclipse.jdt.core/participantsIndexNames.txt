@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+/Users/emmisulander/Workspaces/Ohj2/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2256297516.index
+/Asiakkaat/src
